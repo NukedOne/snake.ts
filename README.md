@@ -2,4 +2,4 @@
 
 A browser implementation of the classic Snake game.
 
-Status: WIP.
+Status: Playable @ [here](https://NukedOne.github.io/snake.ts/).
